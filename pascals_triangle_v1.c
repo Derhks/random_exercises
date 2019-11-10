@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * main - This is a main function
+ *
+ * Description: print the first 3 lines of the pascal's triangle
+ * section header: Section description
+ * Return: Olways 0, otherwise a error
+ */
+
 int main(void)
 {
 	int i, j;
